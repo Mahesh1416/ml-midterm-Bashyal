@@ -17,7 +17,7 @@ ___
 4. Model Performance and Comparisons
 Nathan used Decision Tree Model and SVC model for predicting passenger survival in the Titanic Dataset. Nathan added in his reflections that SVC did not do any better than Decision Tree model and Passenger class was the best predictor for survival which was also confirmed later when Nathan used Neural network model for prediction. 
 
-
+___
 
 
 6. Reflection Quality
